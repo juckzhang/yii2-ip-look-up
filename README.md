@@ -3,9 +3,9 @@
 
 根据ip获取对应的城市名称 qqwry QQWry
 
-[![Latest Stable Version](https://poser.pugx.org/juckzhang/yii2-ipLookUp/version)](https://packagist.org/packages/juckzhang/yii2-ipLookUp)
-[![Total Downloads](https://poser.pugx.org/juckzhang/yii2-ipLookUp/downloads)](https://packagist.org/packages/juckzhang/yii2-ipLookUp)
-[![License](https://poser.pugx.org/juckzhang/yii2-ipLookUp/license)](https://packagist.org/packages/juckzhang/yii2-ipLookUp)
+[![Latest Stable Version](https://poser.pugx.org/juckzhang/yii2-ip-look-up/version)](https://packagist.org/packages/juckzhang/yii2-ip-look-up)
+[![Total Downloads](https://poser.pugx.org/juckzhang/yii2-ip-look-up/downloads)](https://packagist.org/packages/juckzhang/yii2-ip-look-up)
+[![License](https://poser.pugx.org/juckzhang/yii2-ip-look-up/license)](https://packagist.org/packages/juckzhang/yii2-ip-look-up)
 
 Installation
 --------------------
