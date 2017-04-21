@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require juckzhang/yii2-ipLookUp:*
+composer require juckzhang/yii2-ip-look-up:*
 ```
 
 or add
 
 ```json
-"juckzhang/yii2-ipLookUp": "*"
+"juckzhang/yii2-ip-look-up": "*"
 ```
 
 to the `require` section of your composer.json.
