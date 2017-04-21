@@ -1,0 +1,39 @@
+{
+  "name": "juckzhang/yii2-ipLookUp",
+  "type": "yii2-extension",
+  "description": "QQWry、upLookup、ipToCity integration for the Yii2 framework",
+  "keywords": [
+    "juckzhang",
+    "yii2",
+    "extension",
+    "ip",
+    "ipLookUp",
+    "QQWry",
+    "helper"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "juckzhang",
+      "email": "zhangchao_1125@sina.sn"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "juckzhang\\ipLookIp\\": "./src"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
