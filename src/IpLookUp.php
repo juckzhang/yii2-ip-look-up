@@ -53,9 +53,12 @@ class IpLookUp extends Component
     public function setFile($value)
     {
         $this->file = $value;
-        if (!file_exists($this->file) or !is_readable($this->file)){
+        if (!file_exists($this->file))
+            //生成新文件
+            $this->updateQqWryFile();
+
+        if(! file_exists($this->file))
             throw new FileNotFoundException("{$this->file} does not exist, or is not readable");
-        }
     }
 
     /**
